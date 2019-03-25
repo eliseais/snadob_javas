@@ -914,11 +914,27 @@ html.no-csstransitions .home-content__main {
   .u {
     height: 45vw;
     margin-left: 10vw;
+    margin-top: 8vw;
+  }
+
+  .frog {
+    width: 23vw;
+    padding-left: 20vw;
+    top: -15vw;
+    left: 7vw;
+  }
+
+  .so {
+    width: 23vw;
+    padding-left: 19vw;
+    top: -23vw;
+    left: 7vw;
   }
 
   .sa {
-    padding-left: 4vw;
-    top: -43vw;
+    width: 16vw;
+    top: -52vw;
+    left: 5vw;
   }
 
   .header-logo {
@@ -929,11 +945,7 @@ html.no-csstransitions .home-content__main {
   .frog {
     padding-left: 20vw;
     top: -9vw;
-  }
-
-  .so {
-    padding-left: 29vw;
-    top: -22vw;
+    left: 7vw;
   }
 
   .site-logo {
@@ -1486,7 +1498,7 @@ html.no-csstransitions .home-content__main {
 
   h6, .h6 {
     font-size: 1.3rem;
-    margin-top: 10vw;
+    margin-top: 9vw;
     margin-bottom: 7vw;
   }
 
@@ -1537,6 +1549,19 @@ html.no-csstransitions .home-content__main {
     position: relative;
     padding-top: 13rem;
     padding-left: 9vw;
+  }
+
+  .so {
+    width: 23vw;
+    padding-left: 19vw;
+    top: -26vw;
+    left: 12vw;
+  }
+
+  .sa {
+    width: 16vw;
+    top: -59vw;
+    left: 4vw;
   }
 }
 
@@ -1849,7 +1874,8 @@ html.no-csstransitions .home-content__main {
   .so {
     width: 23vw;
     padding-left: 31vw;
-    top: -33vw;
+    top: -38vw;
+    left: 0vw;
   }
 
   .s-services {
