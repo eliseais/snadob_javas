@@ -1451,7 +1451,7 @@ html.no-csstransitions .home-content__main {
 
   .wave1 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     width: 27vw;
     margin-top: -323vw;
     margin-left: 73vw;
@@ -1762,7 +1762,7 @@ html.no-csstransitions .home-content__main {
 
   .wave1 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     width: 21vw;
     margin-top: -350vw;
     margin-left: 79vw;
@@ -2056,7 +2056,7 @@ html.no-csstransitions .home-content__main {
 
   .wave1 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     width: 21vw;
     margin-top: -350vw;
     margin-left: 79vw;
@@ -2348,7 +2348,7 @@ html.no-csstransitions .home-content__main {
 
   .wave1 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     width: 21vw;
     margin-top: -350vw;
     margin-left: 79vw;
