@@ -1014,7 +1014,7 @@ html.no-csstransitions .home-content__main {
 
   .wave1 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     top: -32vw;
     width: 31vw;
     margin-top: -358vw;
@@ -1214,7 +1214,7 @@ html.no-csstransitions .home-content__main {
 
   .wave2 {
     position: relative;
-    z-index: 1;
+    z-index: 3;
     top: -276vw;
     width: 26vw;
     height: -12vw;
